@@ -1,16 +1,16 @@
 ### Hi there 👋
+<p>
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <br><br>
+  <samp>
+    :wave: Hey, there! how's it going?
+    
+    <img src="https://media1.giphy.com/media/l41JU9pUyosHzWyuQ/giphy.gif?cid=ecf05e4749fa6661adf101be20bb63075d6ccca1733215d8&rid=giphy.gif" width="240px" align="center">
+    <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://instagram.com/madeus.s">Insta</a>
+  </samp>
+</p>
 
-<!--
-**Madeuss/Madeuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary><b>:telescope: 2020 goal</b></summary>
+  Survive...
+</details>
