@@ -1,5 +1,5 @@
 <p>
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <img src="https://i.imgur.com/aAEW3hA.gif" width="40px">
   <br><br>
   <samp>
     👋 Hey, there! how's it going? 
@@ -12,4 +12,6 @@
 <details>
   <summary><b>:telescope: 2020 goal</b></summary>
   Survive...
+  &
+  ⚽ Play soccer again (I miss you) 😥
 </details>
