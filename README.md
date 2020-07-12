@@ -1,5 +1,5 @@
 <p>
-  <img src="https://i.imgur.com/aAEW3hA.gif" width="150px">
+  <img src="https://i.imgur.com/aAEW3hA.gif" width="150px" style="transform: scaleX(-1);">
   <br><br>
   <samp>
     👋 Hey, there! how's it going? 
