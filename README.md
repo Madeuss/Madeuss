@@ -12,6 +12,6 @@
 <details>
   <summary><b>:telescope: 2020 goal</b></summary>
   Survive...
-  &
+  
   ⚽ Play soccer again (I miss you) 😥
 </details>
