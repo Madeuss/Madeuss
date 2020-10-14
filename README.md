@@ -9,7 +9,7 @@
   </samp>
 </p>
 <br>
-   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Madeuss&show_icons=true&theme=dracula)
+   ![[Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Madeuss&show_icons=true&theme=dracula)]
 <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusdevsouza/) [![Gmail Badge](https://img.shields.io/badge/-mateus1two3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateus1two3@gmail.com)](mailto:mateus1two3@gmail.com) [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/madeus.s/) [![Facebook Badge](https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/mateus1two3)
