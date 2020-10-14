@@ -5,6 +5,9 @@
     👋 Hey, there! how's it going? 
     <br>
       <img src="https://media1.giphy.com/media/l41JU9pUyosHzWyuQ/giphy.gif?cid=ecf05e4749fa6661adf101be20bb63075d6ccca1733215d8&rid=giphy.gif" width="240px" align="center">
+    
+    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Madeuss)](https://github.com/anuraghazra/github-readme-stats)
+    
     <br><br>:coffee: Wanna chat?
   </samp>
 </p>
